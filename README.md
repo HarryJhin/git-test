@@ -3,5 +3,5 @@
 test commit
 
 ```bash
-git config core.hookpath .githooks
+cp githooks/* .git/hooks
 ```
