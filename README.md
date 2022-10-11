@@ -3,5 +3,6 @@
 test commit
 
 ```bash
-cp githooks/* .git/hooks
+cp ./commit-msg .git/hooks
 ```
+test
